@@ -1,1 +1,1 @@
-This is my random text that I am adding into my practice01 repository.
+ This is my random text that I am adding into my practice01 repository. Now I am adding directly from Github.
